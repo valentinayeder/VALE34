@@ -1,0 +1,55 @@
+h1{
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+P{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    margin: 0cqmin;
+}
+img{
+    width: 500px;
+    text-align: center;
+    align-items: center;
+    margin-top: 5px;
+    border-radius: 5px;
+    height: 500px;
+}
+body, html{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.mostrarArriba{
+    animation: mostrarArriba 1s;
+}
+.mexico{
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.video{
+    width: 500px;
+
+    text-align: center;
+    align-items: center;
+    
+
+}
+div{
+    text-align: center;
+    align-items: center;
+}
